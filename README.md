@@ -1,6 +1,6 @@
 # Gridlock — Smart Traffic Management for VIP Motorcades
 
-Built for the **Flipkart Grid 6.0 Robotics Challenge** (Smart Traffic Management problem statement).
+Built for the **Flipkart Gridlock 2.0** (Smart Traffic Management problem statement).
 
 Gridlock helps Bengaluru Traffic Police plan and manage road closures during VIP motorcade events. It predicts which corridors get hit, recommends where to place barricades and police postings, and generates bypass routes — all from a single Streamlit dashboard.
 
@@ -81,7 +81,3 @@ pytest test_smoke.py -v
 ## Data
 
 The Astram event CSV (~4.5 MB) and SQLite feedback database are excluded from version control. Place the CSV in the project root to use the pipeline.
-
----
-
-*Flipkart Grid 6.0 — Robotics Challenge submission*
